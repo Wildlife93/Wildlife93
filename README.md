@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wildlife93
-- 👀 I’m interested in <wildlife>  but not just </Wildlife> im also interested in  <codeing>  and < other things></ aswell>
+- 👀 I’m interested in <wildlife>  but not just <Wildlife> im also interested in  <codeing>  and < other things></ aswell>
 
 
 - 🌱 I’m currently learning ... 
